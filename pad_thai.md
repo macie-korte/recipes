@@ -1,4 +1,4 @@
-Pad Thai
+# Pad Thai
 
 This is the one noodle dish to master and to love, over all the others (including the best that Italy has to offer). It's so addictive that it alone would keep Thai cuisine alive, were we ever to become too jaded for our own good and eschewed everything else.
 
@@ -6,27 +6,31 @@ Pad Thai is a splendid lesson in how the simple, and bland, rice stick (a.k.a. r
 
 Serves 4 as a noodle course or 2 as a main course
 
-      8 oz Thai rice noodles
-      1/4 cup tamarind paste
-      1/4 cup warm water
+## Ingredients
 
-      4 oz skinless, boneless chicken breast
-      4 oz fried tofu
-      6 tbsp roasted unsalted peanuts
-      3 tbsp fish sauce
-      2 tbsp sugar
-      2 tbsp lime juice
-      1/2 cup vegetable oil
-      1 tsp chopped garlic
-      8 large shrimps, shelled and deveined (50 oz)
-      2 eggs
-      1 cup bean sprouts
-      2 stems green onion, cut into 1-inch pieces
-      1/2 tsp roasted chilies
+* 8 oz Thai rice noodles
+* 1/4 cup tamarind paste
+* 1/4 cup warm water
 
-      Strips of red pepper
-      Fresh coriander leaves
-      Wedges of lime
+* 4 oz skinless, boneless chicken breast
+* 4 oz fried tofu
+* 6 tbsp roasted unsalted peanuts
+* 3 tbsp fish sauce
+* 2 tbsp sugar
+* 2 tbsp lime juice
+* 1/2 cup vegetable oil
+* 1 tsp chopped garlic
+* 8 large shrimps, shelled and deveined (50 oz)
+* 2 eggs
+* 1 cup bean sprouts
+* 2 stems green onion, cut into 1-inch pieces
+* 1/2 tsp roasted chilies
+
+* Strips of red pepper
+* Fresh coriander leaves
+* Wedges of lime
+
+## Instructions
 
 1. Soak noodles in plenty of cold water for at least 1 hour.
 
