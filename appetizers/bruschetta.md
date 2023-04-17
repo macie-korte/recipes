@@ -3,7 +3,7 @@
 ## Ingredients ##
 
 * 3 or 4 medium-large sized tomatoes fresh from the garden
-* one tub of plain hummus
+* one tub of plain or garlic hummus
 * 1 TBSP balsamic vinegar
 * 3 to 4 ounces of fresh mozzarella
 * 10 to 15 leaves of basil
