@@ -3,9 +3,9 @@
   * 2 x rice flour
   * 1 x urd dahl flour
   * water
-  salt
+  * salt
 
-1. Mix 2 parts rice flour and 1 part dahl flour with water to a consistency like pancake batter.  
+1. Mix 2 parts rice flour and 1 part dahl flour with water to a consistency like pancake batter.  Let it sit at least overnight.
 2. Add a little salt before cooking.
 3. Fry some cumin seeds and also add it before cooking.
 4. heat a wide cast iron pan.
